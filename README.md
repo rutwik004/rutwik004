@@ -1,6 +1,6 @@
 # Hi, I'm Rutwik 👋
 
-You can find me everywhere with the keyword: **iamrutwik**
+You can find me everywhere with the keyword: **rutwikhere**
 
 🚀 Developer | Aspiring Entrepreneur
 
