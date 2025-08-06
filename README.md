@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="your-banner-url" alt="Rutwik Banner" />
+  <img src="https://github.com/rutwikhere/rutwikhere/blob/main/banner.png" alt="Rutwik Banner" />
 </p>
 
 <h1 align="center">Hi 👋, I'm Rutwik</h1>
