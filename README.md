@@ -2,7 +2,7 @@
   <img src="https://github.com/rutwikhere/rutwikhere/blob/main/banner.png" alt="Rutwik Banner" />
 </p>
 
-<h1 align="center">Hi 👋, I'm Rutwik</h1>
+<h1 align="center">Welcome to my profile</h1>
 <h3 align="center">You can find me everywhere with the keyword: <strong>rutwikhere</strong></h3>
 
 <p align="center">
