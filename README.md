@@ -20,7 +20,7 @@
 
 - 🌱 I’m currently learning **Java and Python**
 - 🚀 I love working on **React Native, MERN stack, and Android projects**
-- 👨‍💻 All my projects are available at: [My Portfolio](https://rutwikhere.github.io/rutwikhereweb/)
+- 🔗 Find all my social links here: [My Handles](https://rutwikhere.github.io/rutwikhereweb/)
 - 📫 Reach me at: **rutwikwakale004@gmail.com**
 
 ---
